@@ -2,7 +2,7 @@ class Dog
 bark = "Woof"
 
 if bark == "Woof"
-  return "#{bark}!"
+  puts "#{bark}!"
   
 end
 
