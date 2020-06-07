@@ -1,5 +1,9 @@
 class Dog 
-  puts "Woof!"
+bark = "Woof"
+
+if bark == "Woof"
+  return "#{bark}!"
+  
 end
 
 
